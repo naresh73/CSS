@@ -1,0 +1,10 @@
+type of selectors:
+
+Tag/type
+class
+ID
+Multi Elements
+Child
+Immediate Child
+sibling
+Immediate sibling
